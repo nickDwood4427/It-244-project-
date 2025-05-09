@@ -16,15 +16,15 @@ Model training with Gradient Boosting
 Performance evaluation (R² score, RMSE)
 
 Features
-✅ Upload and combine multiple Baseball Savant CSVs
+ Upload and combine multiple Baseball Savant CSVs
 
-✅ Normalize and engineer features
+ Normalize and engineer features
 
-✅ Rule-based adjustments to account for player nuances
+ Rule-based adjustments to account for player nuances
 
-✅ Machine learning modeling and evaluation
+ Machine learning modeling and evaluation
 
-✅ Output top-rated players based on predictions
+ Output top-rated players based on predictions
 
 Installation
 You can run this directly in Google Colab with no local setup.
